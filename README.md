@@ -9,7 +9,7 @@ Use this project (and its helpful functions) to write your application with your
 
 Any time you want to deploy & run your code, you can use the following workflow.
 
-``` bash
+``` 
 script/deploy
 
 *** BUILD SUCCESS / FAILURE OF CODE/TESTS GOES HERE ***
