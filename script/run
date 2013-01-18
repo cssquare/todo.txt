@@ -1,5 +1,2 @@
 #!/bin/sh
-mvn clean
-mvn package
-clear
-java -jar target/*.jar
+java -jar deploy/*.jar "$@"
