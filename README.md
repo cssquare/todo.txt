@@ -1,20 +1,30 @@
 todo.txt
 ========
 
-This is the template project for the Todo.txt project for the Employability Crash Course.
+This is the starter project for the Employability Crash course Todo.txt project.
 
-## Running
+Use this project (and its helpful functions) to write your application with your team!
 
-When you would like to run your project, simply use `script/run`.
+## Deploying & running your code
 
-### Compile Only
+Any time you want to deploy & run your code, you can use the following workflow.
 
-If you would only like to compile your files, without executing the program, you can use `script/compile`.
+``` bash
+script/deploy
 
-## Testing
+*** BUILD SUCCESS / FAILURE OF CODE/TESTS GOES HERE ***
 
-If you would like to run all the tests in your project, use `script/test`.
+deploy/run your command line arguments here
+```
 
-### Compile Only
+### Compile only
+
+If you would like to only compile your project, without actually deploying it, you can use `script/compile`.
+
+## Testing your application
+
+When you want to test your application, you can run `script/test`.
+
+### Compile only
 
 If you would only like to compile your test files, without running your tests, you can use `script/testcompile`
