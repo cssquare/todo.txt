@@ -2,5 +2,5 @@
 mvn clean
 mvn package
 mkdir -p deploy
-cp target/*.jar deploy/
+cp target/todo-1.0-SNAPSHOT.jar deploy/
 cp script/run deploy/
